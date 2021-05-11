@@ -1,0 +1,6 @@
+print('hello ' + 'Simon')
+print('Hello ' * 3)
+print('Hello '[0])
+print('Hello '[0:4])
+print('Hello '[1:4])
+print(r'C:\Users\Simon')
