@@ -15,4 +15,6 @@ counter = incrementer()
 
 for i in range(20):
 	print(next(counter))
+	
+print(next(inc))
 
